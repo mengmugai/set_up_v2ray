@@ -177,3 +177,12 @@ service v2ray start|stop|status|reload|restart|force-reload
 
 ## 还有个提速方案：
 安装bbr.
+
+# 参考
+[https://hexsen.com/my-domain-change-history.html](https://hexsen.com/my-domain-change-history.html)
+[https://www.ddayh.com/1136.html](https://www.ddayh.com/1136.html)
+
+
+
+
+
